@@ -91,6 +91,10 @@ function limpar() {
 //     let nomeProduto = produto.split('-')[0];
 //     let valorUnitario = produto.split('R$')[1];
 //     let quantidade = document.getElementById('quantidade').value;
+//     if (!produto || quantidade <= 0 || isNaN(quantidade)) {
+//         alert("Por favor, insira uma quantidade válida.");
+//         return;
+//     }
 //     let preco = quantidade * valorUnitario;
 
 //     let carrinho = document.getElementById('lista-produtos');
