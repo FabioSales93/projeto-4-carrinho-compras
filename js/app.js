@@ -1,4 +1,5 @@
 // //projeto que eu fiz com ajuda da IA
+
 // // Seletores para os elementos HTML
 // const produtoInput = document.getElementById('produto');
 // const quantidadeInput = document.getElementById('quantidade');
